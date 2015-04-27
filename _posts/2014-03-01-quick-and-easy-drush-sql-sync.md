@@ -55,6 +55,7 @@ $aliases['live'] = array (
 If you see the **live** part of the alias code, I have used `source-command-specific`, it means if I use live as source any Drush specified inside it will be executed, in our case it is `sql-sync`.
 
 The options I have used:
+******
 `create-db` - Means create new database. Default is, import will be merged with current database.
 
 `no-cache` - Do not cache sql-dump
