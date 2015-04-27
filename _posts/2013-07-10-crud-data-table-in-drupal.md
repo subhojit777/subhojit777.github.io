@@ -28,22 +28,19 @@ So in brief, you can use data table to store static information for a web site a
 
 Create a new data table from admin >> structure >> data tables >> create new table. Add fields to it. You have to create a primary key in that data table, otherwise you will not be able to create a view for that data table.
 
-I have created a data table called college_application as an example. Here is the structure of the data table. Views was not required for this data table, so there is no primary key. Otherwise you have to create a primary key.
+I have created a data table called `college_application` as an example. Here is the structure of the data table. Views was not required for this data table, so there is no primary key. Otherwise you have to create a primary key.
 
 [![](http://2.bp.blogspot.com/-wSEcwPOv088/Ud0EHX0uAlI/AAAAAAAAAnE/aJnJ_EhlSGQ/s1600/Selection_005.png)](http://2.bp.blogspot.com/-wSEcwPOv088/Ud0EHX0uAlI/AAAAAAAAAnE/aJnJ_EhlSGQ/s1600/Selection_005.png)
 
 #### Create new entry
 
 ```php
+<?php
 $table = data_get_table('college_application');
 $save_data = array(
-
   'student_id' => SOME_DATA,
-
   'college_id' => SOME_DATA,
-
   'application' => SOME_DATA,
-
   'assigner' => SOME_DATA,
 );
 $table->handler()->save($save_data);
@@ -54,6 +51,7 @@ This will create new entry with given data.
 #### Read entry
 
 ```php
+<?php
 $table = data_get_table('college_application');
 $output = $table->handler()->load(array(
   'student_id' => SOME_DATA,
@@ -61,10 +59,11 @@ $output = $table->handler()->load(array(
 ));
 ```
 
-This will fetch all entries where student_id and college_id is equal to the given data.
+This will fetch all entries where `student_id` and `college_id` is equal to the given data.
 Suppose you want to add an OR condition for values in `college_id`:
 
-```
+```php
+<?php
 $table = data_get_table('college_application');
 $output = $table->handler()->load(array(
   'student_id' => SOME_DATA,
@@ -72,11 +71,12 @@ $output = $table->handler()->load(array(
 ));
 ```
 
-This will fetch all rows where `college_id` is either SOME_DATA1 or SOME_DATA2 and `student_id` is SOME_DATA
+This will fetch all rows where `college_id` is either `SOME_DATA1` or `SOME_DATA2` and `student_id` is `SOME_DATA`
 
 #### Update entry
 
 ```php
+<?php
 $table = data_get_table('college_application');
 $update_data = array(
   'student_id' => SOME_DATA,
@@ -87,11 +87,12 @@ $update_data = array(
 $table->handler()->update($update_data, array('student_id', 'college_id'));
 ```
 
-This will update all entries where student_id and college_id equals to the given data.
+This will update all entries where `student_id` and `college_id` equals to the given data.
 
 #### Delete entry
 
 ```php
+<?php
 $table = data_get_table('college_application');
 $delete_data = array(
   'student_id' => SOME_DATA,
@@ -100,6 +101,6 @@ $delete_data = array(
 $table->handler()->delete($delete_data);
 ```
 
-This will delete all entries where student_id and college_id equals to the the given data.
+This will delete all entries where `student_id` and `college_id` equals to the the given data.
 
 That's all.. I hope everything is clear to you.
