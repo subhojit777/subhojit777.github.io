@@ -20,7 +20,7 @@ You have built a site say `cool-website.com` for a client. The site is live for 
 For the first requirement, i.e. "prolong session expiry time to 1 year", there are many ways to do that in Drupal. There are modules like, [`session_cookie_lifetime`](https://drupal.org/project/session_cookie_lifetime) or change [`session.cookie_lifetime`](http://fleetthought.com/changing-length-user-sessions-drupal) value in settings.php.
 The main problem you will have with the second requirement. "Old sessions" i.e. the sessions which were created before changing value in `settings.php` (or using module) will not have session cookie lieftime of 10 years. To extend their lifetime you need to write a custom module.
 
-Suppose, module name is early_session_extend (Early session extend)
+Suppose, module name is `early_session_extend` (Early session extend)
 
 **`early_session_extend.info`**
 
@@ -104,7 +104,7 @@ function early_session_extend_get_old_sessions() {
 `EARLY_SESSION_EXTEND_COMPARE_DATE` is the date which you want to consider as the compare date. All sessions which were last accessed before this date will be extended. You need to decide what date you put. I recommend provide next day's date when you will enable this module (this makes sure that you do not miss any old sessions). And later you will need this date to check whether all old sessions have been extended (you will need this, I will explain you later).
 Here, I have extended session to 10 years, you can change it as desired.
 
-You see that I have used [hook_init()](https://api.drupal.org/api/drupal/modules!system!system.api.php/function/hook_init/7) here, that means for every Drupal request this hook will be executed. Also, you will need this module for a certain time, I mean once when you see all old sessions have been extended you would like to disable this module. Simply using [hook_init()](https://api.drupal.org/api/drupal/modules!system!system.api.php/function/hook_init/7) will cause extra overhead to your site.
+You see that I have used [`hook_init()`](https://api.drupal.org/api/drupal/modules!system!system.api.php/function/hook_init) here, that means for every Drupal request this hook will be executed. Also, you will need this module for a certain time, I mean once when you see all old sessions have been extended you would like to disable this module. Simply using [`hook_init()`](https://api.drupal.org/api/drupal/modules!system!system.api.php/function/hook_init) will cause extra overhead to your site.
 
 So I have written another code snippet that returns all sessions that are not extended yet.
 
