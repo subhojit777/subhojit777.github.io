@@ -52,6 +52,6 @@ function sl_mail_service_links() {
 
 You will need a mail icon. You can download any mail icon from [iconfinder](http://www.iconfinder.com), and save it as `mail.png` under the module directory, like this `sites/all/modules/sl_mail/mail.png`.
 
-Enable the module. You have to enable the service from service links settings page here `admin/config/services/service-links/services`. The new service will look like this ![service links mail](http://i.imgur.com/yP47kOg.png)
+Enable the module. You have to enable the service from service links settings page here `admin/config/services/service-links/services`. The new service will look like this ![service links mail](../images/post_1/yP47kOg.png)
 
 **References**: See this [documentation](http://servicelinks.altervista.org/?q=about/customizations/extend-the-number-of-services.html) of service links module to create custom services.
