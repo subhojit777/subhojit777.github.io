@@ -7,7 +7,7 @@ tags:
 - drupal
 - ajax
 - '7'
-modified_time: '2013-04-23T11:42:04.752+05:30'
+modified_time: '2015-05-10T17:08:00.000+05:30'
 thumbnail: http://4.bp.blogspot.com/-MIh3yGkAq3I/UTogEtV2YBI/AAAAAAAAAbY/cYWxigo4cOQ/s72-c/Selection_001.png
 blogger_id: tag:blogger.com,1999:blog-6340784984471653280.post-386543354022261062
 blogger_orig_url: http://subhojitpaul.blogspot.com/2013/03/dynamic-loading-of-select-list-using.html
@@ -18,6 +18,8 @@ Dynamic loading of select lists in drupal can be easily done using [Drupal form 
 I will create a form using form API where there will be two select lists. The value of the second(lets say it as child list) will be dependent on the selected value of first list(lets say it as parent list). The changing of the value of child list will be dynamic and done using AJAX.
 
 ```php
+<?php
+
 /**
  * @file
  * dynamic_select_list.module.
@@ -149,6 +151,8 @@ Create a vocabulary called animals and specify the terms like this:
 Now we will load the parent taxonomy terms in the parent select list and their respective child terms in the child select list.
 
 ```php
+<?php
+
 /**
  * @file
  * blogs_dynamic_list_terms.module.
