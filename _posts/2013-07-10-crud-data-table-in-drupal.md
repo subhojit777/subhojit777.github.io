@@ -30,7 +30,7 @@ Create a new data table from admin >> structure >> data tables >> create new tab
 
 I have created a data table called `college_application` as an example. Here is the structure of the data table. Views was not required for this data table, so there is no primary key. Otherwise you have to create a primary key.
 
-[![](http://2.bp.blogspot.com/-wSEcwPOv088/Ud0EHX0uAlI/AAAAAAAAAnE/aJnJ_EhlSGQ/s1600/Selection_005.png)](http://2.bp.blogspot.com/-wSEcwPOv088/Ud0EHX0uAlI/AAAAAAAAAnE/aJnJ_EhlSGQ/s1600/Selection_005.png)
+[![](../images/post_3/crud-table.png)](../images/post_3/crud-table.png)
 
 #### Create new entry
 
