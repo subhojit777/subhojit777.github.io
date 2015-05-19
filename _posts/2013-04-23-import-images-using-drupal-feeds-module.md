@@ -18,7 +18,7 @@ At first you have to copy image files on your server, you can copy them anywhere
 
 After you have copied the images, you need to create a CSV importer. Inside that CSV importer we will specify the path of the image. Look at the feed importer:
 
-[![](http://2.bp.blogspot.com/-jo1LhFM58ac/UXYKZ3UfXTI/AAAAAAAAAg4/w9_dsUH_4tE/s1600/Selection_001.png)](http://2.bp.blogspot.com/-jo1LhFM58ac/UXYKZ3UfXTI/AAAAAAAAAg4/w9_dsUH_4tE/s1600/Selection_001.png)
+[![](../images/post_4/import-field.png)](../images/post_4/import-field.png)
 
 Product images is the important thing in this feed importer. Product images is an image field.
 
@@ -34,9 +34,9 @@ If you have already uploaded the image to the server then you can import data us
 
 This was about importing images using feeds. Suppose, the field accepts multiple images and you want to import multiple images using the importer, then you can use [feeds tamper](http://drupal.org/project/feeds_tamper) module for this. Look at the feeds tamper configuration for the images field:
 
-[![](http://1.bp.blogspot.com/-KKRdBkJBVPI/UXYihO1zaCI/AAAAAAAAAhE/RdpZ9nH7wY0/s1600/Selection_002.png)](http://1.bp.blogspot.com/-KKRdBkJBVPI/UXYihO1zaCI/AAAAAAAAAhE/RdpZ9nH7wY0/s1600/Selection_002.png)
+[![](../images/post_4/import-tamper.png)](../images/post_4/import-tamper.png)
 
-[![](http://4.bp.blogspot.com/-2zfghhjXOs4/UXYihVCcO7I/AAAAAAAAAhM/6598d2BCV9U/s1600/Selection_003.png)](http://4.bp.blogspot.com/-2zfghhjXOs4/UXYihVCcO7I/AAAAAAAAAhM/6598d2BCV9U/s1600/Selection_003.png)
+[![](../images/post_4/import-tamper-config.png)](../images/post_4/import-tamper-config.png)
 
 You can change the exploding character to anything else, but make sure the character is unique and is **not present in the URL of image**.
 
