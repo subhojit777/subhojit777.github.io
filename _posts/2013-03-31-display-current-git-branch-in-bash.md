@@ -34,8 +34,6 @@ parse_git_branch() {
 PS1="${debian_chroot:+($debian_chroot)}\[\033[01;36m\]\u@\h\[\033[00m\]:\[\033[01;32m\]\w\[\033[00m\]\[\033[01;31m\]\$(parse_git_branch)\[\033[00m\]$ "
 ```
 
-[![My bash prompt](http://3.bp.blogspot.com/-bKG2Uq5yD50/UVgEzZcKqaI/AAAAAAAAAf0/THWgEvlvC4o/s1600/Selection_003.png "My bash prompt")](http://3.bp.blogspot.com/-bKG2Uq5yD50/UVgEzZcKqaI/AAAAAAAAAf0/THWgEvlvC4o/s1600/Selection_003.png)
-
 Cool.. eh? :)
 
 [PS1](http://www.cyberciti.biz/tips/howto-linux-unix-bash-shell-setup-prompt.html) is used to change the bash command prompt.
