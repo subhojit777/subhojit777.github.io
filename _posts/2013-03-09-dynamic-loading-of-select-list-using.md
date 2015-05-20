@@ -250,6 +250,4 @@ function blogs_dynamic_list_terms_select_list_ajax_callback($form, &$form_state)
 
 See how much the code has shortened. And also it is more manageable, you can easily add or remove parent and child terms in future.
 
-[![](http://3.bp.blogspot.com/-CTYxD71E9kc/UTtZTccC6CI/AAAAAAAAAbo/lvSPtGXK2Uk/s1600/Selection_002.png)](http://3.bp.blogspot.com/-CTYxD71E9kc/UTtZTccC6CI/AAAAAAAAAbo/lvSPtGXK2Uk/s1600/Selection_002.png)
-
 Also you may like to read [AJAX Forms in Drupal 7](http://drupal.org/node/752056) for more information.
