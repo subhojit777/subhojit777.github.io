@@ -49,13 +49,11 @@ And do not forget to restart terminal after you have done this.
 
 Now I am going to show you some amazing vim commands (available from plugins you installed earlier of course) that will seriously change your experience of custom module work in Drupal.
 
-[![NERDTree](http://2.bp.blogspot.com/-VCr1aZSWKXQ/UUMG9JABx5I/AAAAAAAAAb4/ORFUThcFwPY/s1600/NERD_tree_1+-+(-var-www-gauss-sites-all-modules-custom-gauss_web_services)+-+VIM_003.png "NERDTree")](http://2.bp.blogspot.com/-VCr1aZSWKXQ/UUMG9JABx5I/AAAAAAAAAb4/ORFUThcFwPY/s1600/NERD_tree_1+-+(-var-www-gauss-sites-all-modules-custom-gauss_web_services)+-+VIM_003.png)
+[![NERDTree](../images/post_5/vim-nerdtree.png)](../images/post_5/vim-nerdtree.png)
 
-[![TagbarOpen](http://3.bp.blogspot.com/-1A0Z3JPnDZY/UUMHi3uADJI/AAAAAAAAAcA/0HyGKNzjyhE/s1600/gauss_web_services.module+(-var-www-gauss-sites-all-modules-custom-gauss_web_services)+-+VIM_004.png "TagbarOpen")](http://3.bp.blogspot.com/-1A0Z3JPnDZY/UUMHi3uADJI/AAAAAAAAAcA/0HyGKNzjyhE/s1600/gauss_web_services.module+(-var-www-gauss-sites-all-modules-custom-gauss_web_services)+-+VIM_004.png)
+[![NERDCommeter](../images/post_5/vim-nerdcommenter.png)](../images/post_5/vim-nerdcommenter.png)
 
-[![NERDCommeter](http://2.bp.blogspot.com/-GO_BUHtrtng/UUMJi8BWxvI/AAAAAAAAAcI/ppiXf2Xs12s/s1600/gauss_web_services.module+++(-var-www-gauss-sites-all-modules-custom-gauss_web_services)+-+VIM_005.png "NERDCommeter")](http://2.bp.blogspot.com/-GO_BUHtrtng/UUMJi8BWxvI/AAAAAAAAAcI/ppiXf2Xs12s/s1600/gauss_web_services.module+++(-var-www-gauss-sites-all-modules-custom-gauss_web_services)+-+VIM_005.png)
-
-[![NERDCommenter](http://4.bp.blogspot.com/-yDilrJ5cyXk/UUMMvranpQI/AAAAAAAAAcQ/usD9bBbqZq4/s1600/gauss_web_services.module+++(-var-www-gauss-sites-all-modules-custom-gauss_web_services)+-+VIM_006.png "NERDCommenter")](http://4.bp.blogspot.com/-yDilrJ5cyXk/UUMMvranpQI/AAAAAAAAAcQ/usD9bBbqZq4/s1600/gauss_web_services.module+++(-var-www-gauss-sites-all-modules-custom-gauss_web_services)+-+VIM_006.png)
+[![NERDCommenter](../images/post_5/vim-nerdcommenter2.png)](../images/post_5/vim-nerdcommenter2.png)
 
 Frequently used shotcuts:
 `daw` - Delete word under cursor
