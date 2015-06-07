@@ -46,39 +46,37 @@ After you enter the command you will be asked certain questions. Most of the ans
 
 *   The first question will ask you to enter mail server configuration type. The options with their details are listed there. Choose “Internet Site” option since you would like to send and recieve mails using SMTP.
 
-    [![](http://1.bp.blogspot.com/-7qGtS0-KXok/T_CEiz2uoyI/AAAAAAAAABY/yiVY5pKU4xc/s320/Screenshot-1.png)](http://1.bp.blogspot.com/-7qGtS0-KXok/T_CEiz2uoyI/AAAAAAAAABY/yiVY5pKU4xc/s1600/Screenshot-1.png)
+    [![](../images/post_6/internet-setting.png)](../images/post_6/internet-setting.png)
 
 *   The next question asks you to specify mail name. The default will be the username. Do not change it and move to the next question.
 
-    [![](http://3.bp.blogspot.com/-IcRAbG2L59M/UGA2gCFRPEI/AAAAAAAAADg/FRIUznkcFf8/s320/Screenshot-2.png)](http://3.bp.blogspot.com/-IcRAbG2L59M/UGA2gCFRPEI/AAAAAAAAADg/FRIUznkcFf8/s1600/Screenshot-2.png)
+*   Next question asks you to enter the name by which you will recieve mails. The details are listed there. You will want that mails sent to you are saved in `/var/mail/<your-username>`, so do not change the default answer i.e. your username.
 
-*   Next question asks you to enter the name by which you will recieve mails. The details are listed there. You will want that mails sent to you are saved in /var/mail/<your-username>, so do not change the default answer i.e. your username.
-
-    [![](http://4.bp.blogspot.com/-OVy2ZiTWRNw/UGAv1K7APbI/AAAAAAAAAC4/QksE4fyZuOo/s320/Screenshot-3.png)](http://4.bp.blogspot.com/-OVy2ZiTWRNw/UGAv1K7APbI/AAAAAAAAAC4/QksE4fyZuOo/s1600/Screenshot-3.png)
+    [![](../images/post_6/username-setting.png)](../images/post_6/username-setting.png)
 
 
 *   The next question asks you to enter the IP address from where you can accept mails. The defaults will be your username and localhost. Since, you will sending mails from you localhost Drupal site so do not change default answer and move to the next question.
 
-    [![](http://2.bp.blogspot.com/-lCgl3MV_Wis/T_CEypGHPEI/AAAAAAAAABw/A0QNGosHNBc/s320/Screenshot-4.png)](http://2.bp.blogspot.com/-lCgl3MV_Wis/T_CEypGHPEI/AAAAAAAAABw/A0QNGosHNBc/s1600/Screenshot-4.png)
+    [![](../images/post_6/localhost-setting.png)](../images/post_6/localhost-setting.png)
 
 *   In the next question choose the default answer “no”.
 
-    [![](http://1.bp.blogspot.com/-SSrBqixEGVk/T_CEznOORtI/AAAAAAAAAB0/yYJCfVyQRS0/s320/Screenshot-5.png)](http://1.bp.blogspot.com/-SSrBqixEGVk/T_CEznOORtI/AAAAAAAAAB0/yYJCfVyQRS0/s1600/Screenshot-5.png)
+    [![](../images/post_6/answer-setting.png)](../images/post_6/answer-setting.png)
 
-*   In the next question you are asked to enter the IP addresses which you want to block. Default answer are your localhost IP address i.e 127.0.0.1\. So, you have to clear this field.
+*   In the next question you are asked to enter the IP addresses which you want to block. Default answer are your localhost IP address i.e 127.0.0.1. So, you have to clear this field.
 
-    [![](http://1.bp.blogspot.com/-Uid0kqysOfQ/T_CE0lD0qKI/AAAAAAAAACA/ISYX0UgLAgo/s320/Screenshot-6.png)](http://1.bp.blogspot.com/-Uid0kqysOfQ/T_CE0lD0qKI/AAAAAAAAACA/ISYX0UgLAgo/s1600/Screenshot-6.png)
+    [![](../images/post_6/ipaddress-setting.png)](../images/post_6/ipaddress-setting.png)
 
 *   Select the default answer 0 in mailbox size limit.
 
-    [![](http://4.bp.blogspot.com/-pvxSVk82Dtc/T_CE2QrIJJI/AAAAAAAAACI/0IjnPIBH-S0/s320/Screenshot-7.png)](http://4.bp.blogspot.com/-pvxSVk82Dtc/T_CE2QrIJJI/AAAAAAAAACI/0IjnPIBH-S0/s1600/Screenshot-7.png)
+    [![](../images/post_6/mailbox-setting.png)](../images/post_6/mailbox-setting.png)
 
 *   Select the default answer in next question and do not make any changes in the field.
 
-    [![](http://2.bp.blogspot.com/-Y8X-Fvc4bhc/T_CE3z7_g4I/AAAAAAAAACQ/9NKOg8HexCQ/s320/Screenshot-8.png)](http://2.bp.blogspot.com/-Y8X-Fvc4bhc/T_CE3z7_g4I/AAAAAAAAACQ/9NKOg8HexCQ/s1600/Screenshot-8.png)
+    [![](../images/post_6/extension-setting.png)](../images/post_6/extension-setting.png)
 
 *   Select “all” in next question.
 
-    [![](http://1.bp.blogspot.com/-eswIR6xFKts/T_CE5EFm9TI/AAAAAAAAACY/RqfVLSPI-Fs/s320/Screenshot-9.png)](http://1.bp.blogspot.com/-eswIR6xFKts/T_CE5EFm9TI/AAAAAAAAACY/RqfVLSPI-Fs/s1600/Screenshot-9.png)
+    [![](../images/post_6/protocol-setting.png)](../images/post_6/protocol-setting.png)
 
 Postfix in your Ubuntu machine is now configured and now you can send mail from Drupal's contact form or using [drupal_mail()](http://api.drupal.org/api/drupal/includes!mail.inc/function/drupal_mail).
