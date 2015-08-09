@@ -11,6 +11,7 @@ modified_time: '2013-11-19T10:37:43.293+05:30'
 thumbnail: http://2.bp.blogspot.com/-wSEcwPOv088/Ud0EHX0uAlI/AAAAAAAAAnE/aJnJ_EhlSGQ/s72-c/Selection_005.png
 blogger_id: tag:blogger.com,1999:blog-6340784984471653280.post-2535985540819512472
 blogger_orig_url: http://subhojitpaul.blogspot.com/2013/07/crud-data-table-in-drupal.html
+redirect_from: "/2013/07/crud-data-table-in-drupal.html"
 ---
 
 This blog post is about how you can create, read, update and delete entries from data table in Drupal. Data table can be used to create custom database tables. This [module](https://drupal.org/project/data) allows you to create custom database tables and an API for create, read, update and delete(CRUD).

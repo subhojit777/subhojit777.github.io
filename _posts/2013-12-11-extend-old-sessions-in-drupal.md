@@ -11,6 +11,7 @@ tags:
 modified_time: '2013-12-11T23:38:12.590+05:30'
 blogger_id: tag:blogger.com,1999:blog-6340784984471653280.post-7260605418433723869
 blogger_orig_url: http://subhojitpaul.blogspot.com/2013/12/extend-old-sessions-in-drupal.html
+redirect_from: "/2013/12/extend-old-sessions-in-drupal.html"
 ---
 
 In this article I will explain how you can change session cookie lifetime for "old sessions" in Drupal. This kind of requirement may seem too localized, but I had such requirement once in a client project, hence I would like to share this with you.

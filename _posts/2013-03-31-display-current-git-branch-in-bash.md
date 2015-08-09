@@ -11,6 +11,7 @@ modified_time: '2013-03-31T15:15:11.799+05:30'
 thumbnail: http://3.bp.blogspot.com/-bKG2Uq5yD50/UVgEzZcKqaI/AAAAAAAAAf0/THWgEvlvC4o/s72-c/Selection_003.png
 blogger_id: tag:blogger.com,1999:blog-6340784984471653280.post-165369004112280473
 blogger_orig_url: http://subhojitpaul.blogspot.com/2013/03/display-current-git-branch-in-bash.html
+redirect_from: "/2013/03/display-current-git-branch-in-bash.html"
 ---
 
 While working on a project I maintain multiple branches for development. I keep at least two branches, `master` (the default one) and `develop`. I work on develop branch and when I complete certain task I merge the work with master branch and push code to the repository. That's how I work :)
