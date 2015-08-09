@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Display current Git branch in bash prompt
+description: display git branch in bash prompt
 date: '2013-03-31T15:15:00.000+05:30'
 author: Subhojit Paul
 tags:

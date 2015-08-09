@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Unable to send e-mail. Contact the site administrator if the problem persists.
+title: Unable to send e-mail. Contact the site administrator if the problem persists
+description: Unable to send e-mail. Contact the site administrator if the problem persists Ubuntu drupal
 date: '2012-09-24T15:35:00.003+05:30'
 author: Subhojit Paul
 tags:

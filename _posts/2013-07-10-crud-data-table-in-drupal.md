@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Create Read Update Delete data table in Drupal
+description: create read update delete api data drupal
 date: '2013-07-10T14:27:00.000+05:30'
 author: Subhojit Paul
 tags:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to use vim for Drupal development
+description: how to use vim for drupal development
 date: '2013-03-15T21:26:00.000+05:30'
 author: Subhojit Paul
 tags:

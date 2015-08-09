@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Use Vim as IDE for Drupal development
+description: use vim for drupal development
 date: '2014-10-05T17:14:00.003+05:30'
 author: Subhojit Paul
 tags:

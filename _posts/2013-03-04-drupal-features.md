@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Drupal Features
+description: how to use features in drupal
 date: '2013-03-04T22:58:00.000+05:30'
 author: Subhojit Paul
 tags:

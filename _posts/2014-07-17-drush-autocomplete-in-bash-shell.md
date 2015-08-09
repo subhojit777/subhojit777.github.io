@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Drush autocomplete in bash shell
+description: drush autocomplete bash shell ubuntu
 date: '2014-07-17T22:06:00.000+05:30'
 author: Subhojit Paul
 tags:

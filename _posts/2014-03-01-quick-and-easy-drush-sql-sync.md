@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Quick and easy Drush sql sync
+description: drupal drush sql sync
 date: '2014-03-01T13:30:00.000+05:30'
 author: Subhojit Paul
 tags:

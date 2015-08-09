@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Extend old sessions in Drupal
+description: extend change old session cookie lifetime drupal
 date: '2013-12-11T23:36:00.000+05:30'
 author: Subhojit Paul
 tags:
