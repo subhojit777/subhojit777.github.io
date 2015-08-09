@@ -11,6 +11,7 @@ tags:
 modified_time: '2014-03-05T10:41:24.718+05:30'
 blogger_id: tag:blogger.com,1999:blog-6340784984471653280.post-1855959870169667219
 blogger_orig_url: http://subhojitpaul.blogspot.com/2014/03/quick-and-easy-drush-sql-sync.html
+redirect_from: "/2014/03/quick-and-easy-drush-sql-sync.html"
 ---
 
 Drush provides an excellent tool [sql-sync](http://drush.ws/#sql-sync) to sync database between two machines. I needed this tool to synchronize my local database with production database. Simple use of `drush sql-sync` was slow, I used it with some options and it was easy and quick. I am going to show you how I did it.

@@ -12,6 +12,7 @@ modified_time: '2015-05-10T17:08:00.000+05:30'
 thumbnail: http://4.bp.blogspot.com/-MIh3yGkAq3I/UTogEtV2YBI/AAAAAAAAAbY/cYWxigo4cOQ/s72-c/Selection_001.png
 blogger_id: tag:blogger.com,1999:blog-6340784984471653280.post-386543354022261062
 blogger_orig_url: http://subhojitpaul.blogspot.com/2013/03/dynamic-loading-of-select-list-using.html
+redirect_from: "/2013/03/dynamic-loading-of-select-list-using.html"
 ---
 
 Dynamic loading of select lists in drupal can be easily done using [Drupal form API](http://api.drupal.org/api/drupal/developer%21topics%21forms_api_reference.html/7). I had to implement  dynamic select lists in several of my projects, I googled for some direct answer but did not find any. The answer was rather split among several sites or blogs. Hence, I am writing this blog so that you can find all the required code in one single place.

@@ -11,6 +11,7 @@ tags:
 modified_time: '2013-11-19T09:42:16.276+05:30'
 blogger_id: tag:blogger.com,1999:blog-6340784984471653280.post-8393609963899494285
 blogger_orig_url: http://subhojitpaul.blogspot.com/2013/08/how-to-make-magnesium-sulphate-paste.html
+redirect_from: "/2013/08/how-to-make-magnesium-sulphate-paste.html"
 ---
 
 Magnesium sulphate(or epsom salt) paste is good for skin. It prevents skin inflammation, and prevents wrinkles. It is easy to make magnesium sulphate paste.

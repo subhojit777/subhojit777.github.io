@@ -12,6 +12,7 @@ modified_time: '2014-10-05T17:52:03.035+05:30'
 thumbnail: http://2.bp.blogspot.com/-VCr1aZSWKXQ/UUMG9JABx5I/AAAAAAAAAb4/ORFUThcFwPY/s72-c/NERD_tree_1+-+(-var-www-gauss-sites-all-modules-custom-gauss_web_services)+-+VIM_003.png
 blogger_id: tag:blogger.com,1999:blog-6340784984471653280.post-6060466197356187134
 blogger_orig_url: http://subhojitpaul.blogspot.com/2013/03/how-to-use-vim-for-drupal-development.html
+redirect_from: "/2013/03/how-to-use-vim-for-drupal-development.html"
 ---
 
 I am a Linux user, and a drupal developer too. Its been months I am using [vim](http://en.wikipedia.org/wiki/Vim_(text_editor)) for writing custom drupal modules. Before it was [eclipse](http://en.wikipedia.org/wiki/Eclipse_(software)), eclipse was good but I was having issues because of two reasons. First, I was working on a big project with lots of custom modules and huge database. Loading a module in eclipse editor took several minutes and secondly, my computer is a bit old Intel Core 2 Duo processor and 2GB RAM and . I have always heard being vim as one of the most powerful editors, but I realized it that time when I switched to vim for writing or just reading the code of custom modules.
