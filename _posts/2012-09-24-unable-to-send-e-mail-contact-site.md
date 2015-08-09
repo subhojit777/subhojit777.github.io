@@ -13,7 +13,6 @@ modified_time: '2013-04-23T11:42:47.860+05:30'
 thumbnail: http://1.bp.blogspot.com/-7qGtS0-KXok/T_CEiz2uoyI/AAAAAAAAABY/yiVY5pKU4xc/s72-c/Screenshot-1.png
 blogger_id: tag:blogger.com,1999:blog-6340784984471653280.post-7018136598191482441
 blogger_orig_url: http://subhojitpaul.blogspot.com/2012/09/unable-to-send-e-mail-contact-site.html
-redirect_from: "/2012/09/unable-to-send-e-mail-contact-site.html"
 ---
 
 Drupal newbies trying to send mails from the Drupal contact form or using [drupal_mail()](http://api.drupal.org/api/drupal/includes!mail.inc/function/drupal_mail), usually gets this error message “Unable to send e-mail. Contact the site administrator if the problem persists.”. This is because your system is not configured to send emails.

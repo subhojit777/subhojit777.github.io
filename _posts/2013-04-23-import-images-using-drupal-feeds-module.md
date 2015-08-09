@@ -11,7 +11,6 @@ modified_time: '2013-04-23T11:40:43.677+05:30'
 thumbnail: http://2.bp.blogspot.com/-jo1LhFM58ac/UXYKZ3UfXTI/AAAAAAAAAg4/w9_dsUH_4tE/s72-c/Selection_001.png
 blogger_id: tag:blogger.com,1999:blog-6340784984471653280.post-8709561121829630966
 blogger_orig_url: http://subhojitpaul.blogspot.com/2013/04/import-images-using-drupal-feeds-module.html
-redirect_from: "/2013/04/import-images-using-drupal-feeds-module.html"
 ---
 
 Importing text content using Drupal feeds module is easy. Importing images using [feeds](http://drupal.org/project/feeds) is easy too but it requires a bit work and it is not as straightforward as importing text content.

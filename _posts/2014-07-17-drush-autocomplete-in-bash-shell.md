@@ -12,7 +12,6 @@ tags:
 modified_time: '2015-02-26T12:12:34.145+05:30'
 blogger_id: tag:blogger.com,1999:blog-6340784984471653280.post-7095415015713181278
 blogger_orig_url: http://subhojitpaul.blogspot.com/2014/07/drush-autocomplete-in-bash-shell.html
-redirect_from: "/2014/07/drush-autocomplete-in-bash-shell.html"
 ---
 
 For shell users like me, [Drush](http://drush.ws/) autocomplete is a bliss. This blog will tell you how you can autocomplete Drush commands in [bash](http://www.gnu.org/software/bash/) shell. The commands provided here will work for Ubuntu systems, I am not sure whether they will work for other systems as I do not know where Drush is installed for other systems.
