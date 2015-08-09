@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How to create views programmtically in Drupal 8
-description: create views programmtically drupal 8
+title: How to create views programmatically in Drupal 8
+description: create views programmatically drupal 8
 date: '2015-08-09'
 author: Subhojit Paul
 tags:
@@ -11,7 +11,7 @@ tags:
 modified_time: '2015-08-09'
 ---
 
-Creating views programmtically is quite different than we did in Drupal 7. In Drupal 7 we have [`hook_views_default_views()`](https://api.drupal.org/api/views/views.api.php/function/hook_views_default_views/7 "hook_views_default_views()"), we don't have this hook in Drupal 8. We will use configuration manager in Drupal 8 for creating views programmatically. You can read more about Drupal 8 configuration manager [here](https://www.drupal.org/documentation/administer/config "Configuration Manager in Drupal 8").
+Creating views programmatically is quite different than we did in Drupal 7. In Drupal 7 we have [`hook_views_default_views()`](https://api.drupal.org/api/views/views.api.php/function/hook_views_default_views/7 "hook_views_default_views()"), we don't have this hook in Drupal 8. We will use configuration manager in Drupal 8 for creating views programmatically. You can read more about Drupal 8 configuration manager [here](https://www.drupal.org/documentation/administer/config "Configuration Manager in Drupal 8").
 
 #### Before you continue...
 - You know how to create a basic module in Drupal 7, right?
@@ -72,4 +72,4 @@ Create directory called `config` inside your module's root directory, and inside
     - install
       - `views.view.VIEWS_MACHINE_NAME.yml`
 
-P.S. The above suggested method for creating views programmtically is tested on latest codebase of Drupal 8 (as of 9th August 2015). This is just an approach for creating views programmtically, there can be other *better* approaches, suggestions are welcome :)
+P.S. The above suggested method for creating views programmatically is tested on latest codebase of Drupal 8 (as of 9th August 2015). This is just an approach for creating views programmatically, there can be other *better* approaches, suggestions are welcome :)
