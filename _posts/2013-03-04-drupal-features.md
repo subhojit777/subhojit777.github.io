@@ -11,7 +11,6 @@ tags:
 modified_time: '2013-03-26T22:46:00.761+05:30'
 blogger_id: tag:blogger.com,1999:blog-6340784984471653280.post-1763953898490285089
 blogger_orig_url: http://subhojitpaul.blogspot.com/2013/03/drupal-features.html
-redirect_from: "/2013/03/drupal-features.html"
 ---
 
 In Drupal you will sometimes need to export your database settings to another Drupal installation. For example, you have created a content type and you want to create that same content type in another Drupal installation with few clicks. Without going over the process of creating the content type and adding fields again, you can use [features](http://drupal.org/project/features) module.

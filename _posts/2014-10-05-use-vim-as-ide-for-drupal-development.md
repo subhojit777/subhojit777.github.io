@@ -11,7 +11,6 @@ modified_time: '2014-10-05T17:16:10.337+05:30'
 thumbnail: http://3.bp.blogspot.com/-msEVxeqghyU/VDEd2pU_szI/AAAAAAAAB1M/Ab3EcSiNawM/s72-c/vim-searchparty.gif
 blogger_id: tag:blogger.com,1999:blog-6340784984471653280.post-2528924401164485982
 blogger_orig_url: http://subhojitpaul.blogspot.com/2014/10/use-vim-as-ide-for-drupal-development.html
-redirect_from: "/2014/10/use-vim-as-ide-for-drupal-development.html"
 ---
 
 In my previous blog [How to use vim for Drupal development](http://subhojitpaul.blogspot.com/2013/03/how-to-use-vim-for-drupal-development.html) I have mentioned how to use vim for Drupal development. The blog shows some plugins for code completion, drupal code snippets, and other ways for easily writing code in Drupal. I was using [vimrc](https://www.drupal.org/project/vimrc), [some settings](https://www.drupal.org/node/29325) for configuring vim. Vimrc provides a collection of plugins and settings so that you can quickly setup vim for Drupal.
