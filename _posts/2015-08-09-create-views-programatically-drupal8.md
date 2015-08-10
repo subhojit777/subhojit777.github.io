@@ -69,7 +69,7 @@ Create directory called `config` inside your module's root directory, and inside
   - `my_module.info.yml`
   - `my_module.module`
   - config
-    - install
-      - `views.view.VIEWS_MACHINE_NAME.yml`
+      - install
+          - `views.view.VIEWS_MACHINE_NAME.yml`
 
 P.S. The above suggested method for creating views programmatically is tested on latest codebase of Drupal 8 (as of 9th August 2015). This is just an approach for creating views programmatically, there can be other *better* approaches, suggestions are welcome :)
