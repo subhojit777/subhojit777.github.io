@@ -9,13 +9,15 @@ modified_time: '2015-00-28'
 ---
 
 # Contents
-- [Simpletest](#simpletest)
-  - [Debug arrays and objects using Krumo](#simpletest-debug)
-  - [See the current state of page at any point](#simpletest-current-page-state)
+- [Drupal](#drupal)
+  - [Simpletest](#simpletest)
+    - [Debug arrays and objects using Krumo](#simpletest-debug)
+    - [See the current state of page at any point](#simpletest-current-page-state)
 - [Git](#git)
   - [Quickly switch to last branch without typing its name](#git-quick-switch-branch)
 
-## <a name="simpletest"></a>Simpletest
+## <a name="drupal"></a>Drupal
+### <a name="simpletest"></a>Simpletest
 ### <a name="simpletest-debug"></a>Debug arrays and objects using Krumo
 Suppose you want to debug an object `$object`. Use this code `$this->verbose(serialize($object))` to get the serialized output of `$object`. Execute the test from UI, and find the verbose message. Copy the serialized text, and use some online unserialize tool like [http://www.unserialize.com/](http://www.unserialize.com/) to see the properties of the class.
 
