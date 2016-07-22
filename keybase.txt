@@ -1,0 +1,51 @@
+https://keybase.io/subhojit777
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://subhojit777.in
+  * I am subhojit777 (https://keybase.io/subhojit777) on keybase.
+  * I have a public key ASAE9_B33Xm_m_vj_1jxhU2YK1RHkhiohdVszaWNv4bVzgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012004f7f077dd79bf9bfbe3ff58f1854d982b54479218a885d56ccda58dbf86d5ce0a",
+            "host": "keybase.io",
+            "kid": "012004f7f077dd79bf9bfbe3ff58f1854d982b54479218a885d56ccda58dbf86d5ce0a",
+            "uid": "6d621dea63679dd70036455bb6586619",
+            "username": "subhojit777"
+        },
+        "service": {
+            "hostname": "subhojit777.in",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.16"
+    },
+    "ctime": 1469200640,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1469200568,
+        "hash": "544acc25a2bc3d0e6fb3c23f2c3cf5078665b7e4a05ad58182c29da03b65ad291f4412d382472d85133fa422d5ceeb35f0d3d1a992e19b68160e025288752874",
+        "seqno": 537976
+    },
+    "prev": "ad8ba9409830ecfc6f3637a13832045c09dceb2ae0fff1d316ca3446088bf13d",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgBPfwd915v5v74/9Y8YVNmCtUR5IYqIXVbM2ljb+G1c4Kp3BheWxvYWTFAvl7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMDRmN2YwNzdkZDc5YmY5YmZiZTNmZjU4ZjE4NTRkOTgyYjU0NDc5MjE4YTg4NWQ1NmNjZGE1OGRiZjg2ZDVjZTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMDRmN2YwNzdkZDc5YmY5YmZiZTNmZjU4ZjE4NTRkOTgyYjU0NDc5MjE4YTg4NWQ1NmNjZGE1OGRiZjg2ZDVjZTBhIiwidWlkIjoiNmQ2MjFkZWE2MzY3OWRkNzAwMzY0NTViYjY1ODY2MTkiLCJ1c2VybmFtZSI6InN1Ymhvaml0Nzc3In0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJzdWJob2ppdDc3Ny5pbiIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTYifSwiY3RpbWUiOjE0NjkyMDA2NDAsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ2OTIwMDU2OCwiaGFzaCI6IjU0NGFjYzI1YTJiYzNkMGU2ZmIzYzIzZjJjM2NmNTA3ODY2NWI3ZTRhMDVhZDU4MTgyYzI5ZGEwM2I2NWFkMjkxZjQ0MTJkMzgyNDcyZDg1MTMzZmE0MjJkNWNlZWIzNWYwZDNkMWE5OTJlMTliNjgxNjBlMDI1Mjg4NzUyODc0Iiwic2Vxbm8iOjUzNzk3Nn0sInByZXYiOiJhZDhiYTk0MDk4MzBlY2ZjNmYzNjM3YTEzODMyMDQ1YzA5ZGNlYjJhZTBmZmYxZDMxNmNhMzQ0NjA4OGJmMTNkIiwic2Vxbm8iOjEwLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQAiNxfsBHIrkbKYQ7pn9AXw46E29DfbL04d2VoUCrUs/pwWOWEVWcKX1lsq2RPi3VUJFitw6EmPNOSCat87f9gOoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCAKUU4e0+no8A63QRrFC6IrdHayLSYKEw0NjXMrSPTWsqN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/subhojit777
