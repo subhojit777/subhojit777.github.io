@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Subhojit Paul"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Subhojit Paul"
+description              : "My experiments with computer"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -18,9 +18,9 @@ teaser                   : # filename of teaser fallback teaser image placed in 
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", custom"
+  provider               : "disqus"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : subhoji777
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -37,10 +37,10 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : _subhojit_paul
 facebook:
-  username               :
-  app_id                 :
+  username               : subhojit21
+  app_id                 : 652293188253734
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
@@ -48,13 +48,13 @@ og_image                 : # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links                  : ['https://twitter.com/_subhojit_paul', 'https://www.drupal.org/u/subhojit777', 'https://github.com/subhojit777']
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google"
   google:
-    tracking_id          :
+    tracking_id          : UA-62753384-1
 
 # Google AdSense
 google_ad_client         :
@@ -63,34 +63,35 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Subhojit Paul"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Opensource ❤ Linux ❤ Vim ❤ Drupal ❤ JavaScript ❤ Android · Geek"
+  location         : "India"
+  email            : subhojitpaul21@gmail.com
   uri              :
   bitbucket        :
-  codepen          :
+  codepen          : subhojit777
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : subhojit21
   foursquare       :
-  github           :
+  github           : subhojit777
   google_plus      :
-  keybase          :
+  keybase          : subhojit777
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : subhojitpaul
   pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  soundcloud       : subhojit777
+  stackoverflow    : 1233922/subhojit777
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : _subhojit_paul
   vine             :
   weibo            :
   xing             :
   youtube          :
+  drupal           : subhojit777
 
 
 # Reading Files
@@ -161,6 +162,7 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-archives
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -169,6 +171,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-archives
 
 
 # Archives
@@ -182,22 +185,22 @@ whitelist:
 #  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path/my-awesome-category/index.html ~> path: /
 category_archive:
-  type: liquid
+  type: jekyll-archives
   path: /categories/
 tag_archive:
-  type: liquid
+  type: jekyll-archives
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
 
 
 # HTML Compression
@@ -206,3 +209,24 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# Default post layout
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
