@@ -11,10 +11,10 @@ title                    : "Subhojit Paul"
 title_separator          : "-"
 name                     : "Subhojit Paul"
 description              : "My experiments with computer"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "http://subhojit777.in"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
-teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "bio-photo.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -42,7 +42,7 @@ facebook:
   username               : subhojit21
   app_id                 : 652293188253734
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "bio-photo.jpg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -162,7 +162,7 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-archives
+# - jekyll-archives
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -171,7 +171,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-archives
+# - jekyll-archives
 
 
 # Archives
