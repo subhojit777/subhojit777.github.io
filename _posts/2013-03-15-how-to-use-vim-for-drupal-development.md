@@ -3,10 +3,10 @@ title: How to use vim for Drupal development
 description: how to use vim for drupal development
 date: '2013-03-15T21:26:00.000+05:30'
 author: Subhojit Paul
-tags:
-- vim
-- drupal
-- Ubuntu
+#tags:
+#- vim
+#- drupal
+#- Ubuntu
 modified_time: '2014-10-05T17:52:03.035+05:30'
 thumbnail: http://2.bp.blogspot.com/-VCr1aZSWKXQ/UUMG9JABx5I/AAAAAAAAAb4/ORFUThcFwPY/s72-c/NERD_tree_1+-+(-var-www-gauss-sites-all-modules-custom-gauss_web_services)+-+VIM_003.png
 blogger_id: tag:blogger.com,1999:blog-6340784984471653280.post-6060466197356187134

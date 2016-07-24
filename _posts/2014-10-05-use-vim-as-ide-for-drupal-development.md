@@ -3,9 +3,9 @@ title: Use Vim as IDE for Drupal development
 description: use vim for drupal development
 date: '2014-10-05T17:14:00.003+05:30'
 author: Subhojit Paul
-tags:
-- vim
-- drupal
+#tags:
+#- vim
+#- drupal
 modified_time: '2016-07-10'
 thumbnail: http://3.bp.blogspot.com/-msEVxeqghyU/VDEd2pU_szI/AAAAAAAAB1M/Ab3EcSiNawM/s72-c/vim-searchparty.gif
 blogger_id: tag:blogger.com,1999:blog-6340784984471653280.post-2528924401164485982

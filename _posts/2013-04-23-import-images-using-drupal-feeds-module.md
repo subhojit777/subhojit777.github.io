@@ -3,9 +3,9 @@ title: Import images using Drupal feeds module
 description: import image using feeds drupal
 date: '2013-04-23T11:38:00.003+05:30'
 author: Subhojit Paul
-tags:
-- drupal
-- 'feeds import'
+#tags:
+#- drupal
+#- 'feeds import'
 modified_time: '2013-04-23T11:40:43.677+05:30'
 thumbnail: http://2.bp.blogspot.com/-jo1LhFM58ac/UXYKZ3UfXTI/AAAAAAAAAg4/w9_dsUH_4tE/s72-c/Selection_001.png
 blogger_id: tag:blogger.com,1999:blog-6340784984471653280.post-8709561121829630966

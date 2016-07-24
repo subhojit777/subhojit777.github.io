@@ -3,9 +3,9 @@ title: Display current Git branch in bash prompt
 description: display git branch in bash prompt
 date: '2013-03-31T15:15:00.000+05:30'
 author: Subhojit Paul
-tags:
-- bash
-- git
+#tags:
+#- bash
+#- git
 modified_time: '2013-03-31T15:15:11.799+05:30'
 thumbnail: http://3.bp.blogspot.com/-bKG2Uq5yD50/UVgEzZcKqaI/AAAAAAAAAf0/THWgEvlvC4o/s72-c/Selection_003.png
 blogger_id: tag:blogger.com,1999:blog-6340784984471653280.post-165369004112280473

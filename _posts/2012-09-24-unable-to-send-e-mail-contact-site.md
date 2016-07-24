@@ -3,11 +3,11 @@ title: Unable to send email contact site administrator if problem persists
 description: unable to send email contact site administrator if problem persists ubuntu drupal
 date: '2012-09-24T15:35:00.003+05:30'
 author: Subhojit Paul
-tags:
-- drupal_mail()
-- drupal
-- Ubuntu
-- mail()
+#tags:
+# - drupal_mail()
+# - drupal
+# - Ubuntu
+# - mail()
 modified_time: '2013-04-23T11:42:47.860+05:30'
 thumbnail: http://1.bp.blogspot.com/-7qGtS0-KXok/T_CEiz2uoyI/AAAAAAAAABY/yiVY5pKU4xc/s72-c/Screenshot-1.png
 blogger_id: tag:blogger.com,1999:blog-6340784984471653280.post-7018136598191482441

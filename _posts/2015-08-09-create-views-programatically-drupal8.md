@@ -3,10 +3,10 @@ title: How to create views programmatically in Drupal 8
 description: create views programmatically drupal 8
 date: '2015-08-09'
 author: Subhojit Paul
-tags:
-- drupal
-- 'drupal 8'
-- views
+#tags:
+# - drupal
+# - 'drupal 8'
+# - views
 modified_time: '2015-08-09'
 ---
 

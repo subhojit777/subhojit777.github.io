@@ -3,10 +3,10 @@ title: Extend old sessions in Drupal
 description: extend change old session cookie lifetime drupal
 date: '2013-12-11T23:36:00.000+05:30'
 author: Subhojit Paul
-tags:
-- drupal
-- session
-- '7'
+#tags:
+#- drupal
+#- session
+#- '7'
 modified_time: '2013-12-11T23:38:12.590+05:30'
 blogger_id: tag:blogger.com,1999:blog-6340784984471653280.post-7260605418433723869
 blogger_orig_url: http://subhojitpaul.blogspot.com/2013/12/extend-old-sessions-in-drupal.html

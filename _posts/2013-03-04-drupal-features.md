@@ -3,10 +3,10 @@ title: Drupal Features
 description: how to use features in drupal
 date: '2013-03-04T22:58:00.000+05:30'
 author: Subhojit Paul
-tags:
-- features
-- drupal
-- '7'
+#tags:
+#- features
+#- drupal
+#- '7'
 modified_time: '2013-03-26T22:46:00.761+05:30'
 blogger_id: tag:blogger.com,1999:blog-6340784984471653280.post-1763953898490285089
 blogger_orig_url: http://subhojitpaul.blogspot.com/2013/03/drupal-features.html

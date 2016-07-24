@@ -3,11 +3,11 @@ title: Drush autocomplete in bash shell
 description: drush autocomplete bash shell ubuntu
 date: '2014-07-17T22:06:00.000+05:30'
 author: Subhojit Paul
-tags:
-- bash
-- drush
-- drupal
-- Ubuntu
+#tags:
+#- bash
+#- drush
+#- drupal
+#- Ubuntu
 modified_time: '2015-02-26T12:12:34.145+05:30'
 blogger_id: tag:blogger.com,1999:blog-6340784984471653280.post-7095415015713181278
 blogger_orig_url: http://subhojitpaul.blogspot.com/2014/07/drush-autocomplete-in-bash-shell.html

@@ -3,10 +3,10 @@ title: Dynamic loading of select list using AJAX
 description: dynamic loading select list ajax drupal
 date: '2013-03-09T21:24:00.000+05:30'
 author: Subhojit Paul
-tags:
-- drupal
-- ajax
-- '7'
+#tags:
+#- drupal
+#- ajax
+#- '7'
 modified_time: '2015-05-10T17:08:00.000+05:30'
 thumbnail: http://4.bp.blogspot.com/-MIh3yGkAq3I/UTogEtV2YBI/AAAAAAAAAbY/cYWxigo4cOQ/s72-c/Selection_001.png
 blogger_id: tag:blogger.com,1999:blog-6340784984471653280.post-386543354022261062

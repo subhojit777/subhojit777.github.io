@@ -3,10 +3,10 @@ title: Quick and easy Drush sql sync
 description: drupal drush sql sync
 date: '2014-03-01T13:30:00.000+05:30'
 author: Subhojit Paul
-tags:
-- bash
-- drush
-- drupal
+#tags:
+#- bash
+#- drush
+#- drupal
 modified_time: '2014-03-05T10:41:24.718+05:30'
 blogger_id: tag:blogger.com,1999:blog-6340784984471653280.post-1855959870169667219
 blogger_orig_url: http://subhojitpaul.blogspot.com/2014/03/quick-and-easy-drush-sql-sync.html

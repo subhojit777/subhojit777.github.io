@@ -3,8 +3,8 @@ title: Share content by mail using service links module
 description: share content service links module drupal
 date: '2015-05-07'
 author: Subhojit Paul
-tags:
-- drupal
+#tags:
+#- drupal
 modified_time: '2015-05-07'
 ---
 
