@@ -1,0 +1,1 @@
+{% capture hosted_base_path %}{{ site.hosted_url }}{{ site.baseurl }}{% endcapture %}
