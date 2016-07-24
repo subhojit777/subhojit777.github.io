@@ -43,7 +43,7 @@ facebook:
   username               : subhojit21
   app_id                 : 652293188253734
   publisher              :
-og_image                 : "bio-photo.jpg"
+og_image                 : "bio-photo-og.jpg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
