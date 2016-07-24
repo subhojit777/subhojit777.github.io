@@ -13,7 +13,7 @@ name                     : "Subhojit Paul"
 description              : "My experiments with computer"
 url                      :
 baseurl                  : # the subpath of your site, e.g. "/blog"
-hosted_url               : "http://subhojit777.in"
+hosted_url               : "http://subhojit777.in/"
 gh_repo                  :
 teaser                   : "bio-photo.jpg"
 # breadcrumbs            : false # true, false (default)
