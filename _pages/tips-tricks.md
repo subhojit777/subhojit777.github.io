@@ -2,10 +2,9 @@
 title: Tips and Tricks
 permalink: /tips-tricks
 description: web development tips and tricks
-date: '2015-09-28'
+date: '2016-07-30'
 author: Subhojit Paul
 comments: true
-modified_time: '2016-07-30'
 ---
 
 {% include toc title="Contents" %}
