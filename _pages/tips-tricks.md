@@ -4,6 +4,7 @@ permalink: /tips-tricks
 description: web development tips and tricks
 date: '2015-09-28'
 author: Subhojit Paul
+comments: true
 modified_time: '2015-09-28'
 ---
 

@@ -3,7 +3,6 @@ title: About me
 permalink: /about
 description: about Subhojit Paul subhojit777
 share: false
-comments: false
 ---
 
 I am a Drupal developer at [Srijan](http://www.srijan.net), and wannabe JavaScript and Android developer. I am an open source enthusiast. Drupal is the first open source project that I came across. I have contributed some modules in Drupal, and I am willing to contribute more to open source community. Working in Ubuntu system is one of the best experience I had as a developer. The thing that I like most in open source is its community.

@@ -1,7 +1,18 @@
 # main links links
 main:
+  - title: "Projects"
+    url: /projects/php
+
   - title: "Tips and Tricks"
     url: /tips-tricks
 
   - title: "About me"
     url: /about
+
+projects:
+  - title: "Projects"
+    children:
+      - title: 'PHP'
+        url: /projects/php
+      - title: 'JavaScript'
+        url: /projects/javascript
