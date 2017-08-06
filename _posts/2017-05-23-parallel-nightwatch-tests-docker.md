@@ -1,6 +1,6 @@
 ---
-title: Run nightwatch tests parallelly in Docker
-description: Docker setup to run nightwatch tests parallelly
+title: Run Nightwatch.js tests parallelly in Docker
+description: Docker setup to run Nightwatch.js tests parallelly
 date: '2017-05-23'
 author: Subhojit Paul
 #tags:
@@ -10,21 +10,21 @@ author: Subhojit Paul
 # - "CI"
 ---
 
-[Nightwatch](http://nightwatchjs.org) is a tool used for automated browser, it
-is built in Node.js. Recently I had setup GitLab CI which will run Nightwatch
-tests on every push to `master` branch.
+[Nightwatch.js](http://nightwatchjs.org) is a tool used for automated browser,
+it is built in Node.js. Recently I had setup GitLab CI which will run
+Nightwatch.js tests on every push to `master` branch.
 
 It is very common that the acceptance tests are slow. Therefore, after setting
 up the CI, my next requirement was to run the tests parallelly. This was
 challenging, given that I am very much new to Docker. Finally, I figured it
 out.
 
-### How to run Nightwatch in parallel mode
+### How to run Nightwatch.js in parallel mode
 You can either execute the tests in parallel by `test_workers` setting. Or you
 can specify multiple environments while running the tests. Read more about
 running tests in the parallel mode [here](https://github.com/nightwatchjs/nightwatch-docs/blob/master/guide/running-tests/run-parallel.md).
 
-### How parallel mode in Nightwatch works
+### How parallel mode in Nightwatch.js works
 The basic idea is - it will create a child process for every test. Every child
 process is assigned a browser instance. The parent process is the process that
 executes the main `nightwatch` command. The parent process will wait for the
@@ -33,8 +33,9 @@ complete output of all the child processes.
 
 --------------------
 
-Earlier I was using [`subhojit777/nightwatch`](https://github.com/subhojit777/nightwatch)
-setup to run the tests. It was working alright until the requirement of parallel
+Earlier I was using
+[`subhojit777/nightwatch`](https://github.com/subhojit777/nightwatch) setup to
+run the tests. It was working alright until the requirement of parallel
 running came. The setup was not able to spawn multiple instances of the browser,
 hence the tests were completing within a few seconds without showing any output.
 
@@ -108,8 +109,8 @@ services:
 }
 ```
 
-I am assuming that the Nightwatch tests of your application are inside `tests`
-directory.
+I am assuming that the Nightwatch.js tests of your application are inside
+`tests` directory.
 
 Just place the `docker-compose.yml` file inside the docroot of your application.
 Make sure the tests are inside `tests` directory, and the tests directory should
