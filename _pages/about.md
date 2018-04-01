@@ -6,7 +6,7 @@ share: false
 ---
 
 I am from [Kolkata, India](https://en.wikipedia.org/wiki/Kolkata). I have been
-working in tech industry since 5 years. My specialities are Drupal, PHP and
+working in tech industry since 6 years. My specialities are Drupal, PHP and
 JavaScript.
 
 I like to learn new technologies. Nowadays, I am more inclined towards learning
@@ -26,9 +26,6 @@ came across, and I am contributing to the project too. I like to help people,
 well... as far as my schedule allows :blush:
 
 Besides coding, I like hanging out with friends, play games on my beloved
-PlayStation 4, music (Bollywood, [Hard Rock](http://en.wikipedia.org/wiki/Hard_rock),
-[Metal](http://en.wikipedia.org/wiki/Heavy_metal_music)), movies
-([IMDb top 250](http://www.imdb.com/chart/top)), cooking. I am a health freak
-but a foodie too :wink: Follow me on
-[Twitter](https://twitter.com/_subhojit_paul) if you want to know what I am up
-to :smile:
+PlayStation 4, music , movies, cooking. I am a health freak but a foodie too
+:wink: Follow me on [Twitter](https://twitter.com/_subhojit_paul) if you want to
+know what I am up to :smile:
