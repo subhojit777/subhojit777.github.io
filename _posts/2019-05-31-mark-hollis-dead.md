@@ -15,7 +15,7 @@ Just today I learned that Mark Hollis is dead. I was just browsing on [IMDb](htt
 
 Only a few days ago I was listening to his album [Laughing Stock](https://en.wikipedia.org/wiki/Laughing_Stock), and I was telling my wife that this album is so good, that I make sure I am focussed to its music - not treating it as background music. I feel that, if I use it as background music I am disrespecting the music, the album and Mark Hollis himself.
 
-He was an inspiration to me. Besides his music, the most fascinating thing I liked about him is that he didn't pursue money and fame. I liked how he slowly changed the music style in later years of [Talk Talk](https://en.wikipedia.org/wiki/Talk_Talk), how he insisted on making artful music - rather than making music for the masses.
+He was an inspiration to me. Besides his music, the most fascinating thing I liked about him is that he didn't pursue money and fame. I liked how he slowly changed the music style in later years of [Talk Talk](https://en.wikipedia.org/wiki/Talk_Talk), how he chose to make artful music - rather than making music for the masses.
 
 I was so much hoping that someday he would make a comeback, but then he died...
 
