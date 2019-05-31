@@ -19,4 +19,4 @@ He was an inspiration to me. Besides his music, the most fascinating thing I lik
 
 I was so much hoping that someday he would make a comeback, but then he died...
 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=gdAB4ZD98zM" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gdAB4ZD98zM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
